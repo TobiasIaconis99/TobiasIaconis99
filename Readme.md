@@ -1,24 +1,17 @@
-# Hello 
+# Hi there 👋 I´m Tobias! Welcome to my Github!
 
-My name is Tobias 👋 , I´m from Argentina and 
-
-C++ | C# 
-Java | .NET | ASP.NET | SQL | 
+✨A passionate software developer✨.
 
 
 Programming Student at the National Technological University [UTN] 
 
 
-Languages and Tools: ⚙️
+Tools: 
+C++ | C# | Java | .NET | ASP.NET | SQL | 
 
 
-
-
-## Skills 
-
-
-
-
+DataBase:
+MySql | Sql | Java | .NET | ASP.NET | SQL | 
 
 
 
