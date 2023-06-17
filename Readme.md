@@ -1,7 +1,5 @@
 # Hi there 👋 I´m Tobias! Welcome to my Github!
 
-✨A passionate software developer✨.
-
 
 Programming Student at the National Technological University [UTN] 
 
