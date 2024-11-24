@@ -1,16 +1,38 @@
-## Hi there 👋, I'm Tobias!!
+# 👋 Hello! I'm [Your Name]  
 
-<!--
-**TobiasIaconis99/TobiasIaconis99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 .NET Developer & Programming Student at UTN-FRGP
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate software developer focused on building solutions with **.NET** technologies while pursuing my studies at **Universidad Tecnológica Nacional (UTN-FRGP)**. I enjoy exploring new tools, learning best practices, and contributing to meaningful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🌟 About Me
+- 🎓 **Student**: Programming and software development at UTN-FRGP.
+- 🖥️ **Developer**: Specializing in backend development with .NET (C#).
+- 🌱 **Learning**: Currently diving deeper into Entity Framework, ASP.NET Core, and modern software architecture patterns.
+- 🤔 **Interests**: Problem-solving, clean code, and building scalable web applications.
+
+---
+
+## 🛠️ Tech Stack
+- **Languages**: C#, JavaScript, SQL  
+- **Frameworks**: ASP.NET Core, Entity Framework, Bootstrap  
+- **Tools**: Git, Visual Studio, Docker  
+- **Databases**: SQL Server, MySQL  
+
+---
+
+## 🌐 Let's Connect!
+- 📫 **Email**: [youremail@example.com](mailto:youremail@example.com)  
+- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+- 📝 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)  
+
+---
+
+## 📚 Current Projects
+- **Personal Portfolio Website**: A showcase of my skills, projects, and achievements.  
+- **Order Management System**: A web app for managing purchase orders using .NET Core and Entity Framework.
+
+Feel free to explore my repositories or reach out to collaborate!
+
 -->
