@@ -24,9 +24,7 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
 ---
 
 ## 🌐 Let's Connect!
-- 📫 **Email**: [youremail@example.com](mailto:youremail@example.com)  
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-- 📝 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)  
+- 💼 **LinkedIn**: https://www.linkedin.com/in/tobias-iaconis-097bb0256
 
 ---
 
