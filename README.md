@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
 - 🖥️ **Developer**: Specializing in backend development with .NET (C#).
 - 🌱 **Learning**: Currently diving deeper into Entity Framework, ASP.NET Core, and modern software architecture patterns.
 - 🤔 **Interests**: Problem-solving, clean code, and building scalable web applications.
+- 👨‍💻 **Portfolio**: Check out my main projects at my portfolio: https://www.linkedin.com/in/tobias-iaconis-097bb0256/
 
 ---
 
