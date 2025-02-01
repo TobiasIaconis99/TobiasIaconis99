@@ -1,5 +1,4 @@
-System.out.println("Hi there, my name is Tobias Nicolas" + "thanks for visit my profile") 👋
-
+👋 Hello! I'm Tobias   
 ## 💻 .NET Developer & Programming Student at UTN-FRGP
 
 Welcome to my GitHub profile! I'm a passionate software developer focused on building solutions with **.NET** technologies while pursuing my studies at **Universidad Tecnológica Nacional (UTN-FRGP)**. I enjoy exploring new tools, learning best practices, and contributing to meaningful projects.
