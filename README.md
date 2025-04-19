@@ -32,8 +32,10 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
 - **Personal Portfolio Website**: A showcase of my skills, projects, and achievements.  
 - **Order Management System**: A web app for managing purchase orders using .NET Core and Entity Framework.
 
-<img width="300" src="https://camo.githubusercontent.com/95b1281dae69cef6abd4f0e99e7473e0076e9cf0112b2d2b18deff0dbf38e463/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d63656c6573636973267468656d653d6461726b2673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="TobiasIaconis99" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=TobiasIaconis99
-&amp;theme=dark&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%">
+![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=TobiasIaconis99
+&show_icons=true&theme=dark)
+![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO&layout=compact&theme=dark)
+
 
 Feel free to explore my repositories or reach out to collaborate!
 
