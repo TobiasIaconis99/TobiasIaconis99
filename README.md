@@ -23,6 +23,12 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
 
 ---
 
+## Stats
+
+![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs?username=TobiasIaconis99&layout=compact&theme=dark)
+
+---
+
 ## 🌐 Let's Connect!
 - 💼 **LinkedIn**: https://www.linkedin.com/in/tobias-iaconis-097bb0256
 
@@ -33,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
 - **Order Management System**: A web app for managing purchase orders using .NET Core and Entity Framework.
 
 <!-- ![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=TobiasIaconis99&show_icons=true&theme=dark) -->
-![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs?username=TobiasIaconis99&layout=compact&theme=dark)
+
 
 
 
